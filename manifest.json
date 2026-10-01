@@ -1,0 +1,26 @@
+{
+  "name": "Телеграм Форпост | 49 MTProxy с проверкой, обновлено 15:33 МСК",
+  "short_name": "Телеграм Форпост",
+  "description": "49 живых прокси для Телеграма на Телеграм Форпост. Проверка доступности, пинг, подключение через официальный клиент Telegram без VPN и регистрации.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f4fbf8",
+  "theme_color": "#259d72",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
